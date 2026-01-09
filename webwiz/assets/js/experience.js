@@ -21,9 +21,9 @@ const exp = [
   {
     title: "E-Commerce systems developer",
     cardImage: "assets/images/experience-page/ecommerce.webp",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    place: "Freelance Project",
+    time: "(dec,2024 - present)",
+    desp: "<li>Built a complete eCommerce system with cart, wishlist, and compare features.</li><li>Implemented buyer/seller flows, dashboards, and admin controls.</li> <li>Added wallet/credit systems and category-based product filtering.</li> <li>Delivered a polished, scalable architecture ready for real users.</li>",
   },
 ];
 
