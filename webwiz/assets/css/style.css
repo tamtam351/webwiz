@@ -422,7 +422,7 @@ color: #ffffff !important;
       padding: 6px 21px !important;
   }
 
-  /* Hide svg on laptop screens to prevent overlap between sidebar and navbar */
+  /* Hide svg on laptop screens to prevent overlap between 3bar and navbar */
   .bike {
       display: none;
   }
