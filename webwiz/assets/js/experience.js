@@ -22,7 +22,7 @@ const exp = [
     title: "E-Commerce systems developer",
     cardImage: "assets/images/experience-page/ecommerce.webp",
     place: "Freelance Project",
-    time: "(dec,2024 - present)",
+    time: "(Dec,2024)",
     desp: "<li>Built a complete eCommerce system with cart, wishlist, and compare features.</li><li>Implemented buyer/seller flows, dashboards, and admin controls.</li> <li>Added wallet/credit systems and category-based product filtering.</li> <li>Delivered a polished, scalable architecture ready for real users.</li>",
   },
 ];
